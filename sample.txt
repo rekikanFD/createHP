@@ -5,3 +5,5 @@
 test 20171227
 test2 20171227(プロキシなし)
 branchtest 
+
+origin は　だいたい rekikanFDHPになる
